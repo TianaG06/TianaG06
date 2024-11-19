@@ -16,7 +16,7 @@ Recientemente, he trabajado en un proyecto colaborativo donde aplicamos varias t
 ---
 
 ### Contáctame 💬
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurabd-uiuxdise%C3%B1adorfront/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauradgarcia-frontend/)
 
 ---
 
